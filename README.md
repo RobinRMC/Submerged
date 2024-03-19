@@ -86,15 +86,15 @@ Submerged is available in the languages listed below. If you would like to help 
 | Language | ❔ | Status |
 |-|:-:|:-:|
 | English | ✅ | - |
-| Français | ✅ | Fully Translated |
 | Deutsch | ✅ | Fully Translated |
+| Français | ✅ | Fully Translated |
+| Nederlands | ✅ | Fully Translated |
 | Português (Brasil) | ✅ | Fully Translated |
+| Русский | ✅ | Fully Translated |
 | 日本語 | ✅ | Fully Translated |
 | 简体中文 | ✅ | Fully Translated |
 | 繁體中文 | ✅ | Fully Translated |
 | Español | 🟡 | Partially Translated |
-| Nederlands | 🟡 | Partially Translated |
-| Русский | 🟡 | Partially Translated |
 | Bisaya | ❌ | Not Translated |
 | Español (Latinoamérica) | ❌ | Not Translated<br>(Using Español) |
 | Gaeilge | ❌ | Not Translated |
@@ -110,8 +110,6 @@ If you are a mod developer, the [FOR MOD DEVELOPERS.md](./.github/FOR%20MOD%20DE
 
 Submerged is compatible both with official servers and [Impostor](https://github.com/Impostor/Impostor) servers.
 
-<!--
-
 # Contributing Guidelines
 
 Any and all contributions are welcome, but please keep in mind that Submerged is a finished project. We will not accept any new major features unless they are very cool 😎. If you want to add new features, please open an issue discussing your proposed changes before creating a pull request.
@@ -119,24 +117,6 @@ Any and all contributions are welcome, but please keep in mind that Submerged is
 Additionally feel free to [open an issue](https://github.com/SubmergedAmongUs/Submerged/issues/new/choose/) if you have a feature request, want to report a bug, or basically anything else.
 
 All pull request contributors are required to sign a [CLA](https://gist.github.com/Alexejhero/fabcc123434c6306bb5c3fde8a6bcd9c) (a bot will comment on opened pull requests with instructions).
-
-# License
-
-This mod is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Please check [LICENSE.md](LICENSE.md) for more information.
-
-*This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.*
-
-For business inquiries, please contact us at `submergedamongus@gmail.com`.
-
--->
-
-# Contributing Guidelines
-
-We are not accepting any contributions to Submerged at the moment, but you can [open an issue](https://github.com/SubmergedAmongUs/Submerged/issues/new/choose/) if you have a feature request, want to report a bug, or basically anything else. 
-
-## Why Not Open-Source?
-
-While we would love to open-source Submerged, unfortunately we *__cannot__* do that at the moment.
 
 # License
 
